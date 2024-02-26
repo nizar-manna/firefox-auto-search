@@ -29,7 +29,7 @@ This script is especially useful for people who wish to monitor various ads. One
 
 1. **Add Smart Keyword to Firefox**: If you haven't done it yet, [add the smart keyword you'll be using to Firefox](https://support.mozilla.org/en-US/kb/how-search-from-address-bar).
 2. **Prepare Files**: Fill in 'type_keyword_here.txt' and 'type_queries_here.txt'.
-3. **Run Script**: Execute `firefox_auto_search.py`.
+3. **Run Script**: Execute `main.py` through Python's interpreter.
 4. **Sit Back and Relax**: Firefox opens tabs with search results. **Do not click with your mouse/use your keyboard while the script is running**
 
 ## Limitations/Issues
